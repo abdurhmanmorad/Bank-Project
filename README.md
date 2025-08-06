@@ -9,5 +9,25 @@ This is a simple console-based Bank Management System written in C++ (C++14). Th
 - Delete client
 - Update client information
 - Find client by account number
-- Deposit and withdraw money
-- View total balances
+
+## How It Works
+- All client data is stored in (ClientFile.txt).
+- The application uses a menu-driven interface for navigation.
+- Each client has an account number, PIN code, name, phone, and balance.
+
+## Usage
+1. Compile the code using a C++14 compatible compiler:
+2. Run the program:
+3. Follow the on-screen menu to manage clients.
+
+## File Structure
+- (Bank v1 (Original).cpp) - Main source code file.
+- (ClientFile.txt) - Data file for storing client information.
+
+## Notes
+- Make sure (ClientFile.txt) is in the same directory as the executable.
+- The program uses simple text-based storage; no database is required.
+- All operations are performed via the console.
+
+## License
+This project is for educational purposes.
