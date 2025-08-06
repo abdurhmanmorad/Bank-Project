@@ -21,8 +21,8 @@ This is a simple console-based Bank Management System written in C++ (C++14). Th
 3. Follow the on-screen menu to manage clients.
 
 ## File Structure
-- (Bank v1 (Original).cpp) - Main source code file.
-- (ClientFile.txt) - Data file for storing client information.
+- [Bank v1 (Original).cpp] - Main source code file.
+- [ClientFile.txt] - Data file for storing client information.
 
 ## Notes
 - Make sure (ClientFile.txt) is in the same directory as the executable.
