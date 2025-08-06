@@ -1,5 +1,5 @@
-Features
-Show all clients
+#Features
+-[Show all clients]
 Add new client
 Delete client
 Update client information
